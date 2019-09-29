@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">HomeWorkApplication</string>
+    <string name="john_mayer">JOHN MAYER</string>
+    <string name="business">Business</string>
+    <string name="departure">Departure</string>
+    <string name="arrival">Arrival</string>
+    <string name="toronto">Toronto</string>
+    <string name="london">London</string>
+    <string name="time1">3:30pm</string>
+    <string name="time2">9:25pm</string>
+    <string name="boarding_time">Boarding Time</string>
+    <string name="remaining">Remaining</string>
+    <string name="flight">Flight</string>
+    <string name="gate">Gate</string>
+    <string name="group">Group</string>
+    <string name="seat">Seat</string>
+    <string name="time3">3:00pm</string>
+    <string name="time4">1:32:45</string>
+    <string name="number1">AC182</string>
+    <string name="number2">24</string>
+    <string name="number3">5</string>
+    <string name="number4">34</string>
+    <string name="super1">Super</string>
+    <string name="airlines">Airlines</string>
+    <string name="yyz">YYZ</string>
+    <string name="lhr">LHR</string>
+</resources>
